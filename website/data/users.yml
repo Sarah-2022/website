@@ -704,3 +704,6 @@
 - name: iofod
   url: https://www.iofod.com
   logo: iofod.svg
+- name: komprise
+  url: https://www.komprise.com
+  logo: komprise.svg
